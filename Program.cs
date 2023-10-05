@@ -8,8 +8,11 @@ namespace GuessNumber
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
+            GuessNumber.Banner();
+            InputControll.GetUserInputMenu();
         }
     }
 }

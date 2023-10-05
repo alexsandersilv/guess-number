@@ -1,0 +1,7 @@
+C:\Users\alexs\OneDrive\Github\guess-number\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Github\guess-number\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Github\guess-number\bin\Debug\GuessNumber.exe.config
+C:\Users\alexs\OneDrive\Github\guess-number\bin\Debug\GuessNumber.exe
+C:\Users\alexs\OneDrive\Github\guess-number\bin\Debug\GuessNumber.pdb
+C:\Users\alexs\OneDrive\Github\guess-number\obj\Debug\GuessNumber.exe
+C:\Users\alexs\OneDrive\Github\guess-number\obj\Debug\GuessNumber.pdb
