@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexs\\GitHub\\guess-number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B0F806-26F9-4DF2-9C1E-73249FE60045}|GuessNumber.csproj|c:\\users\\alexs\\github\\guess-number\\guessnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B0F806-26F9-4DF2-9C1E-73249FE60045}|GuessNumber.csproj|solutionrelative:guessnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B0F806-26F9-4DF2-9C1E-73249FE60045}|GuessNumber.csproj|C:\\Users\\alexs\\GitHub\\guess-number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B0F806-26F9-4DF2-9C1E-73249FE60045}|GuessNumber.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuessNumber.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\GitHub\\guess-number\\GuessNumber.cs",
+              "RelativeDocumentMoniker": "GuessNumber.cs",
+              "ToolTip": "C:\\Users\\alexs\\GitHub\\guess-number\\GuessNumber.cs",
+              "RelativeToolTip": "GuessNumber.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T21:02:49.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\GitHub\\guess-number\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexs\\GitHub\\guess-number\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:30:34.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
